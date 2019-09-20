@@ -75,9 +75,10 @@ site.register(models.UatFzenv, Uatfzenv.UatFzenvHandler)
 
 ### Demo
 
-![](http://192.168.24.68/static/imgs/formcurd-host.png)
+![](https://github.com/gongwz/formcurd/blob/master/images/formcurd-host.png)
 
-![](http://192.168.24.68/static/imgs/formcurd-list.png)
+![](https://github.com/gongwz/formcurd/blob/master/images/formcurd-list.png)
+
 
 ### 相关知识点
 - inclusion_tag

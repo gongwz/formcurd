@@ -75,6 +75,8 @@ site.register(models.UatFzenv, Uatfzenv.UatFzenvHandler)
 
 ### Demo
 
+![](https://github.com/gongwz/formcurd/blob/master/images/formcurd-middle.png)
+
 ![](https://github.com/gongwz/formcurd/blob/master/images/formcurd-host.png)
 
 ![](https://github.com/gongwz/formcurd/blob/master/images/formcurd-list.png)

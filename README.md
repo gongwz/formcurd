@@ -73,13 +73,13 @@ from release.views import Uatfzenv
 site.register(models.UatFzenv, Uatfzenv.UatFzenvHandler)
 ```
 
-### Demo
+### Demo 截图
 
-![](https://github.com/gongwz/formcurd/blob/master/images/formcurd-middle.png)
+![middle](https://github.com/gongwz/formcurd/blob/master/images/formcurd-middle.png)
 
-![](https://github.com/gongwz/formcurd/blob/master/images/formcurd-host.png)
+![host](https://github.com/gongwz/formcurd/blob/master/images/formcurd-host.png)
 
-![](https://github.com/gongwz/formcurd/blob/master/images/formcurd-list.png)
+![list](https://github.com/gongwz/formcurd/blob/master/images/formcurd-list.png)
 
 
 ### 相关知识点

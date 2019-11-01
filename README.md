@@ -73,6 +73,10 @@ from release.views import Uatfzenv
 site.register(models.UatFzenv, Uatfzenv.UatFzenvHandler)
 ```
 
+### 案例分享
+
+请参考本人另外一个项目 [ScheduOps](https://github.com/gongwz/ScheduOps.git)  
+
 ### Demo 截图
 
 ![middle](https://github.com/gongwz/formcurd/blob/master/images/formcurd-middle.png)
